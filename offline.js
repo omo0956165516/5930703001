@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1556294229,
+	"version": 1556370448,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -87,6 +87,8 @@
 		"images/sprite5-sheet0.png",
 		"images/sprite6-sheet0.png",
 		"images/sprite7-sheet0.png",
+		"images/ae-sheet0.png",
+		"images/au-sheet0.png",
 		"media/soo5.m4a",
 		"media/soo5.ogg",
 		"media/s006.m4a",
@@ -149,12 +151,6 @@
 		"media/008.8.8.ogg",
 		"media/000.m4a",
 		"media/000.ogg",
-		"icon-16.png",
-		"icon-32.png",
-		"icon-114.png",
-		"icon-128.png",
-		"icon-256.png",
-		"loading-logo.png",
 		"intro.webm"
 	]
 }
