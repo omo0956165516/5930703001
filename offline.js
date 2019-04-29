@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1556370448,
+	"version": 1556541628,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -151,6 +151,13 @@
 		"media/008.8.8.ogg",
 		"media/000.m4a",
 		"media/000.ogg",
+		"media/คลิกไอค่อน.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
 		"intro.webm"
 	]
 }
